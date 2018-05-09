@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Rakesh Balasubramanian",
+      "authorEmail": "rakesh.balasubramanian@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
